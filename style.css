@@ -1,0 +1,95 @@
+.bgimage{
+	background-image: url("images/mbr2-2.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% ;
+
+}
+
+.lien {
+	text-decoration: none;
+	color: red;
+}
+
+.parent h3 {
+	color: black;
+	left: 40%;
+	top: 40%;
+}
+
+.parent h1 {
+	color: black;
+	left: 40%;
+	top: 32%;
+}
+
+.column
+{
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.profil{
+	width: 80%;
+	height: 80%;
+}
+
+.formation{
+	color: blue;
+}
+
+
+
+
+
+
+
+
+h3
+{
+margin-top: auto;
+}
+
+
+nav
+{
+float: left;
+width: 100%;
+height: 5%;
+background-color: blue;
+}
+
+section
+{
+float: left;
+width: 100%;
+height: 80%;
+background-color: #e8e7e6;
+}
+
+article
+{
+float: left;
+width: 50%;
+height: 45%;
+background-color: orange;
+outline: 1px solid invert;
+}
+
+aside
+{
+float: left;
+width: 20%;
+height: 80%;
+background-color: purple;
+}
+
+footer
+{
+float: left;
+width: 100%;
+height: 5%;
+background-color: green;
+}
